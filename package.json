@@ -1,0 +1,15 @@
+{
+  "name": "mon-projet-en-js",
+  "version": "1.0.0",
+  "description": "une creation d'un fichier npm test",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "number-to-words": "^1.2.5"
+  }
+}
